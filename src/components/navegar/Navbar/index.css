@@ -1,0 +1,12 @@
+.logo {
+    border-radius: 10px;
+    float: left;
+    width: 150px; /* Agrega una propiedad de ancho */
+    height: 50px; /* Agrega una propiedad de alto */
+    margin-top: 10px; /* Agrega un margen superior de 10px */
+  }
+.texto{
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}

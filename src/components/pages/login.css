@@ -1,0 +1,59 @@
+
+.center-logo {
+    border-radius: 20px;
+    margin-top: 60px;
+    margin-left: 710px;
+    width: 70px; /* Agrega una propiedad de ancho */;
+    display: flex;
+    height: 50px;
+     
+  }
+
+.titulo{
+    color: #07478bd6; /* Cambia el color del texto */
+    font-size: 30px; /* Cambia el tamaño de la fuente */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    
+}   
+.boton{
+    margin-top: 30px; /* Agrega margen superior */
+    margin-right: 10px; /* Agrega margen derecho */
+    margin-bottom: 10px; /* Agrega margen inferior */
+    margin-left: 545px; /* Agrega margen izquierdo */
+    background-color: white; /* Cambia el color de fondo */
+    border-radius: 30px; /* Agrega esquinas redondeadas */
+    cursor: pointer;
+    border: 2px solid rgb(229, 234, 237);
+    font-size: 20px;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px 50px;
+
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 8vh; 
+    width: 60vh;/* Aprovecha toda la altura de la pantalla */
+}
+.boton1{
+    margin-top: 30px; /* Agrega margen superior */
+    margin-right: 10px; /* Agrega margen derecho */
+    margin-bottom: 10px; /* Agrega margen inferior */
+    margin-left: 545px; /* Agrega margen izquierdo */
+    background-color: white; /* Cambia el color de fondo */
+    border-radius: 30px; /* Agrega esquinas redondeadas */
+    cursor: pointer;
+    border: 2px solid rgb(229, 234, 237);
+    font-size: 20px;
+    font-style:normal;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px 50px;
+
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 8vh; 
+    width: 60vh;/* Aprovecha toda la altura de la pantalla */
+}

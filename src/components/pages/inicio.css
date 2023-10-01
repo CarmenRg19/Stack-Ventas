@@ -1,0 +1,9 @@
+/* Inicio.css */
+
+.titulo-pagina {
+    color: #07478bd6; /* Cambia el color del texto */
+    font-size: 50px; /* Cambia el tamaño de la fuente */
+    font-family:cursive;
+    text-align: center; /* Centra el título horizontalmente */
+    /* Otros estilos para el título... */
+  }

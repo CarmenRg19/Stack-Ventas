@@ -1,0 +1,22 @@
+.mi-boton {
+    margin-top: 20px; /* Agrega margen superior */
+    margin-right: 10px; /* Agrega margen derecho */
+    margin-bottom: 20px; /* Agrega margen inferior */
+    margin-left: 10px; /* Agrega margen izquierdo */
+    background-color: #0f59a77e; /* Cambia el color de fondo */
+    border-radius: 8px; /* Agrega esquinas redondeadas */
+    cursor: pointer;
+    border: 2px solid rgb(93, 135, 161);
+    font-size: 13px;
+  }
+  .CardContainer {
+    margin: 5px; /* Margen alrededor del contenedor principal */
+  }
+  .Card-img-top {
+    margin-left: 10px; /* Margen alrededor de la imagen */
+    margin-bottom: 5px;
+    margin-top: 10px ;
+    margin: 15px;
+  }
+  
+  
